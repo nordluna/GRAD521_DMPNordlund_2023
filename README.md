@@ -1,1 +1,6 @@
 # GRAD521_DMPNordlund_2023
+
+Data Management Plan for the research project Supercritical Carbondioxide Thermosiphon.
+
+Context of the project:
+The primary goal of this project is to analyze the potential of supercritical carbon dioxide as an environmentally friendly coolant for data centers and similar applications. In computer cooling applications the ability of a fluid to remove heat effectively is balanced against its environmental impact, cost, efficiency, and other metrics. Air and water, while environmentally friendly, are becoming less useful as coolants due to their low thermal performance and efficiency, while modern refrigerants are costly and may have extreme environmental consequences. Supercritical carbon dioxide (SCO2) is carbon dioxide pressurized to over eighty times atmospheric pressure to become a liquid with inherently great thermal properties while being cheap and relatively green. As such, this project aims to compare it to existing coolants in the application of a thermosiphon, a form of cooling loop where flow is driven vertically due to boiling and buoyancy forces. Key metrics of performance will be the heat SCO2 is capable of removing, the temperatures at which that occurs, and its flow characteristics of it.
